@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 Este es un archivo de texto.
 
 Este es un cambio 
@@ -7,3 +9,4 @@ Este es un segundo cambio.
 
 Este es un tercer cambio.
 
+>>>>>>> parent of 60779ad... sadsad
